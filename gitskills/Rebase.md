@@ -8,4 +8,4 @@ git rebase origin/<目标分支>
 git pull --rebase
 
 3. 推送；
-git push
+  git push
